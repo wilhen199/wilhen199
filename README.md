@@ -1,4 +1,7 @@
-<h1 align="center"> <img src"https://github.com/wilhen199/wilhen199/blob/main/wf_icon.png" witdth="35"> Hola, soy Wilhen Figueredo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+	<img src="https://raw.githubusercontent.com/wilhen199/wilhen199/main/wf_icon.png" width="35">
+	Hola, soy Wilhen Figueredo 
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Bogotá,%20Colombia-blue?style=flat-pro&logo=googlemaps&logoColor=white" alt="Ubicación">
   <img src="https://img.shields.io/badge/Role-Networking%20%7C%20Cloud%20%7C%20SysAdmin-orange?style=flat-pro" alt="Rol">
@@ -39,20 +42,6 @@ Refuerzo mis conocimientos mediante proyectos propios en Azure y AWS, con enfoqu
 **Scripts de automatización para gestión de dispositivos de red.**
 * **Descripción:** Scripts para gestión y automatización de dispositivos de red, configuración SNMP y usuarios locales en equipos multi-vendor.
 * **Tecnologías:** `Python`, `REST APIs`, `JSON`,`pandas`,`netmiko`,.
-
-
----
-
-<details><summary><h3> :open_file_folder: Mis Repos </h3></summary>
-	
-<div>
-  <p align="center">
-	<a href="[https://github.com/wilhen199/cv-cloud">
-      		<img src="https://github.com/wilhen199/cv-cloud" alt="GitHub Stats" />
-    	</a>
-
-  </p>
-</div>
 
 ---
 
