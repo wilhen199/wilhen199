@@ -43,6 +43,11 @@ Refuerzo mis conocimientos mediante proyectos propios en Azure y AWS, con enfoqu
 * **Descripción:** Scripts para gestión y automatización de dispositivos de red, configuración SNMP y usuarios locales en equipos multi-vendor.
 * **Tecnologías:** `Python`, `REST APIs`, `JSON`,`pandas`,`netmiko`,.
 
+### 🎧 [Genesys_Cloud](https://github.com/wilhen199/Genesys_Cloud)
+**Automatización y gestión de Genesys Cloud CX mediante Python.**
+* **Descripción:** Desarrollo de scripts para la interacción programática, aprovisionamiento masivo y extracción de reportes en la plataforma líder de Contact Center en la nube.
+* **Tecnologías:** `Python`, `Platform API`, `Genesys Cloud SDK`, `JSON`.
+
 ---
 
 ## 🤝 Conectemos
