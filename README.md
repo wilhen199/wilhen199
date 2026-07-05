@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://raw.githubusercontent.com/wilhen199/wilhen199/main/wf_icon.png" width="35">
-	Hola, soy Wilhen Figueredo 
+	Hola, soy Wilhen 
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Bogotá,%20Colombia-blue?style=flat-pro&logo=googlemaps&logoColor=white" alt="Ubicación">
