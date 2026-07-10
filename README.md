@@ -38,6 +38,11 @@ Refuerzo mis conocimientos mediante proyectos propios en Azure y AWS, con enfoqu
 * **Descripción:** Despliegue automatizado de un sitio web estático para mi portfolio profesional utilizando buenas prácticas de disponibilidad y rendimiento.
 * **Tecnologías:** `Terraform`, `AWS S3`, `CloudFront`, `Route 53`.
 
+### ☁️ [aws-three-tier](https://github.com/wilhen199/aws-three-tier)
+**Laboratorio de arquitectura de tres capas en AWS**
+* **Descripción:** Despliegue automatizado de estructura web básica de tres capas. Redundancia y escalabilidad, seguridad de "least privilege principle" y sin puertos expuestos y estado remoto confiable.
+* **Tegnologías:** `Terraform`, `S3`, `VPC`, `EC2`, `RDS`, `Application Load Balancer`, `Auto-scaling Group`, `System Session Manager`, `Secret Manager`, `Security Groups`, `NAT Gateway`, `Internet Gateway`, `IAM Roles`
+
 ### 🐍 [network automation](https://github.com/wilhen199/networking)
 **Scripts de automatización para gestión de dispositivos de red.**
 * **Descripción:** Scripts para gestión y automatización de dispositivos de red, configuración SNMP y usuarios locales en equipos multi-vendor.
