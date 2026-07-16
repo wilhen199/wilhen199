@@ -10,7 +10,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mí
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>\
-<br>
 Soy **Ingeniero de Telecomunicaciones** apasionado por la infraestructura tecnológica, la automatización de redes y la arquitectura Cloud. Me especializo en diseñar, administrar y optimizar entornos complejos, asegurando la continuidad operativa y la escalabilidad mediante metodologías ágiles e Infraestructura como Código (IaC).
 Refuerzo mis conocimientos mediante proyectos propios en Azure y AWS, con enfoque en automatización, seguridad y escalabilidad. Mi objetivo es consolidarme como Cloud Engineer aplicando prácticas DevOps.
 
@@ -52,6 +51,16 @@ Refuerzo mis conocimientos mediante proyectos propios en Azure y AWS, con enfoqu
 **Automatización y gestión de Genesys Cloud CX mediante Python.**
 * **Descripción:** Desarrollo de scripts para la interacción programática, aprovisionamiento masivo y extracción de reportes en la plataforma líder de Contact Center en la nube.
 * **Tecnologías:** `Python`, `Platform API`, `Genesys Cloud SDK`, `JSON`.
+
+---
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<p align="center">
+  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=wilhen199&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilhen199&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+
+[![Wilhen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wilhen199&theme=react-dark)](https://github.com/wilhen199/github-readme-activity-graph)
 
 ---
 
