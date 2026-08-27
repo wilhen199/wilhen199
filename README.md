@@ -61,7 +61,7 @@ Refuerzo mis conocimientos mediante proyectos propios en Azure y AWS, con enfoqu
 
 
 
-![Wilhen's github activity graph](https://raw.githubusercontent.com/wilhen199/wilhen199/output/activity-graph.svg))
+![Wilhen's github activity graph](https://raw.githubusercontent.com/wilhen199/wilhen199/output/activity-graph.svg)
 
 ---
 
