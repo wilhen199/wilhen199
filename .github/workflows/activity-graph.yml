@@ -1,0 +1,41 @@
+name: Update Readme with Activity Graph
+
+on:
+  schedule:
+    - cron: '*/8 * * * *'
+  workflow_dispatch:
+    inputs:
+      force_update:
+        description: 'Forzar actualización manual'
+        required: false
+
+jobs:
+  update-readme-activity-graph:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write 
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Generate Activity Graph
+        uses: theactionhero/github-readme-activity-graph@v1.4.6 
+        with:
+          user_name: ${{ github.repository_owner }} 
+          theme: react-dark 
+          show_title: true
+          title: 'Wilhen\'s github activity graph'
+          font_family: 'JetBrains Mono'
+          commit_message: '[bot] Update Activity Graph'
+          
+      - name: Commit changes to README
+        run: |
+          git config user.name ${{ github.actor }}
+          git config user.email ${{ github.event.repository.owner.email || 'action@users.noreply.github.com' }}
+          git add README.md
+          git commit -m "Update activity graph" || exit 0
+          git push
