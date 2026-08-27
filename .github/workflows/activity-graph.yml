@@ -19,13 +19,13 @@ jobs:
           fetch-depth: 2
 
       - name: Generate activity graph
-        uses: theactionhero/github-readme-activity-graph@v1.4.6
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           user_name: ${{ github.repository_owner }}
           theme: react-dark 
           show_title: true
           title: "Wilhen's github activity graph"
-          commit_message: '[bot] Actualizar gráfico de actividad'
+          commit_message: '[bot] Update activity graph'
 
       - name: Push activity-graph.svg
         run: |
