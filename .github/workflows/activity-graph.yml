@@ -25,7 +25,6 @@ jobs:
           options: theme=react-dark&title=Wilhen's github activity graph
           output_path: dist/activity-graph.svg
           token: ${{ secrets.WF_README }}
-          commit_message: '[bot] Update activity graph'
 
       - name: Push activity-graph.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
