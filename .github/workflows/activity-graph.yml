@@ -24,7 +24,7 @@ jobs:
           username: ${{ github.repository_owner }}
           options: theme=react-dark&title=Wilhen's github activity graph
           output_path: dist/activity-graph.svg
-          token: ${{ secrets.WF_README }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push activity-graph.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -32,4 +32,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.WF_README }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
