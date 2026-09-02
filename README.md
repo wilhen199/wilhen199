@@ -32,6 +32,13 @@ Refuerzo mis conocimientos mediante proyectos propios en Azure y AWS, con enfoqu
 
 ## 📁 Proyectos Destacados
 
+### 🏎️ [f1-api](https://github.com/wilhen199/f1-api)
+**Web F1 STATS**
+* **Descripción:** Aplicación web que recopila y muestra datos históricos y actuales de la Fórmula 1, como clasificaciones, carreras y premios.
+* **Tegnologías:** `Python`, `FastAPI`, `REST APIs`, `JSON`, `Javascript`, `Docker`, `Github Actions CI/CD`
+* **En proceso:** `AWS (ECS Fargate)`,  `Terraform` 
+
+
 ### 🌐 [cv-cloud](https://github.com/wilhen199/cv-cloud)
 **Digital CV en AWS construido con Infraestructura como Código.**
 * **Descripción:** Despliegue automatizado de un sitio web estático para mi portfolio profesional utilizando buenas prácticas de disponibilidad y rendimiento.
