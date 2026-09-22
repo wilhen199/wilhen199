@@ -39,8 +39,8 @@ Refuerzo mis conocimientos mediante proyectos propios en Azure y AWS, con enfoqu
 * **En proceso:** `AWS (ECS Fargate)`,  `Terraform` 
 
 
-### 🌐 [cv-cloud](https://github.com/wilhen199/cv-cloud)
-**Digital CV en AWS construido con Infraestructura como Código.**
+### 🌐 [Portfolio](https://github.com/wilhen199/cv-cloud)
+**Porfolio en AWS construido con Infraestructura como Código.**
 * **Descripción:** Despliegue automatizado de un sitio web estático para mi portfolio profesional utilizando buenas prácticas de disponibilidad y rendimiento.
 * **Tecnologías:** `Terraform`, `AWS S3`, `CloudFront`, `Route 53`.
 
