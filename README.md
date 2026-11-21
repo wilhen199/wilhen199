@@ -59,16 +59,6 @@ I have built my expertise through personal projects on Azure and AWS, focusing o
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<p align="center">
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=wilhen199&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilhen199&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-![Wilhen's github activity graph](https://raw.githubusercontent.com/wilhen199/wilhen199/output/activity-graph.svg)
-
----
-
 ## 🤝 Contact me
 
 <p align="left">
